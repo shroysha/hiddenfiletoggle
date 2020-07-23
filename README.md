@@ -1,7 +1,7 @@
 # hiddenfiletoggle
 
 ## Description
-null
+Used to show/hide hidden files on Mac
 
 ### Tags
 [Java]
